@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "UnitConverterCompose"
 include(":app")
 include(":app:pirategame")
+include(":app:shoppinglist")
